@@ -8,9 +8,9 @@ This repository showcases a sheet metal processor housing designed in **SolidWor
 
 The processor housing is a sheet metal enclosure designed for a desktop computer CPU, ensuring structural integrity, thermal management, and component alignment. The project highlights proficiency in:
 
-- Sheet metal design (bends, cutouts, and tolerances).
+- Sheet metal design (bends and cutouts).
 - Assembly modeling with precise mating.
-- Technical drawing creation with GD&T (Geometric Dimensioning and Tolerancing).
+- Technical drawing creation.
 - BOM generation for manufacturing.
 - Exporting interoperable STEP files for collaboration.
 
@@ -22,13 +22,13 @@ The project consists of five primary models:
    - The main enclosure assembly, integrating all components.
    - Features an **exploded view** in the technical drawing to illustrate assembly sequence and component relationships.
 2. **Card Guide Middle (`MAX_CARD_GUIDE_MIDDLE.SLDPRT`)**:
-   - A central guide for aligning internal components (e.g., circuit boards) within the housing.
-   - Designed with precise slot dimensions for secure fitment.
+   - A central guide for aligning internal components within the housing.
+   - Designed with precise slot dimensions.
 3. **Card Guide Left (`MAX_CARD_GUIDE_LEFT.SLDPRT`)**:
-   - Left-side guide for component alignment, mirroring the right guide.
+   - Left-side guide for component alignment.
    - Optimized for sheet metal bending and manufacturability.
 4. **Card Guide Right (`MAX_CARD_GUIDE_RIGHT.SLDPRT`)**:
-   - Right-side guide, ensuring symmetry and alignment with the middle guide.
+   - Right-side guide, ensuring alignment with the middle guide.
 5. **Max Housing (`MAX_HOUSING`)**:
    - Model for the main enclosure.
 

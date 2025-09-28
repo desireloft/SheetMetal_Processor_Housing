@@ -1,5 +1,7 @@
 # Sheet Metal Processor Housing
 
+![assembly](media/case_assembly.png)
+
 ## Overview
 
 This repository showcases a sheet metal processor housing designed in **SolidWorks** to demonstrate my skills in CAD modeling, sheet metal design, and technical documentation. The project includes a complete assembly, individual part models, detailed technical drawings, a Bill of Materials (BOM), and STEP files for interoperability. The design is optimized for manufacturing and assembly precision.
@@ -13,6 +15,10 @@ The processor housing is a sheet metal enclosure designed for a desktop computer
 - Technical drawing creation.
 - BOM generation for manufacturing.
 - Exporting interoperable STEP files for collaboration.
+
+## Demo Video
+
+[Click here to view the Case Assembly video in a new tab](https://desireloft.github.io/SheetMetal_Processor_Housing/case.html)
 
 ### Components
 
